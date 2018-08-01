@@ -1,0 +1,64 @@
+		* {margin:0;padding:0;}
+		
+		body {
+		font-size:12px;
+		background-color:#FFFFFF;
+		}
+		
+		.header {
+			width:100%;
+			background-color:#222222;
+			color:#FFFFFF;
+			font-weight:bold;
+			text-align:center;
+			font-size:2em;
+			height:50px;
+		}
+		
+		.header p {
+			padding:13px 0px;
+		}
+		
+		.link {
+			padding:0px 6px;
+		}
+		
+		.main table {
+			width:100%;
+			font-size:1.2em;
+		}
+		
+		.main table tr th {
+			background-color:#222222;
+			color:#FFFFFF;
+			height:36px;
+			padding:9px 0px;
+		}
+		
+		.main table .write td {
+			background-color:#FFFFFF;
+			color:black;
+			height:26px;
+			padding:4px 3px;
+		}
+		
+		.main table .gris td {
+			background-color:#e6e6e6;
+			color:#000000;
+			height:26px;
+			padding:4px 3px;
+		}
+		
+		.fa.fa-cloud-download, .fa.fa-play{
+			font-size:2.2em;
+			padding:0px;
+			color:#222222;
+		}
+		
+		a, a:hover {
+			color:#222222;
+		}
+		
+		hr {
+			color:#222222;
+		}
